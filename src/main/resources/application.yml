@@ -7,4 +7,8 @@ spring:
     config:
       server:
         git:
-          uri: D:\\config
+          uri: https://github.com/lakshmidedeepya/config.git
+          username: lakshmidedeepya
+          password: Om$airam9
+          clone-on-start: false
+         
